@@ -1,0 +1,7 @@
+Run: candidate_2
+Parameters: {'name': 'candidate_2', 'n_estimators': 100, 'max_depth': None}
+accuracy: 0.956140
+precision: 0.958904
+recall: 0.972222
+f1: 0.965517
+training_seconds: 0.095804
